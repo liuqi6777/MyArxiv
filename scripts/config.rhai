@@ -1,5 +1,5 @@
 let titles_type = ["Dataset", "Survey", "Review", "Overview", "Benchmark"];
-let titles_model = ["BERT", "GPT", "Transformer"];
+let titles_model = ["BERT", "GPT", "Transformer", "Diffusion"];
 let titles_method = ["Pre-train", "Pretrain", "Prompt", "Self-Supervised", "Instruction", "Retrieval", "Large Language Models", "LLM", "Chain-of-Thought", "In-Context"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio"];
